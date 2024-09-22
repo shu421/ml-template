@@ -16,6 +16,9 @@ dependencies = [
     "setuptools>=75.1.0",
     "wandb>=0.18.1",
     "wheel>=0.44.0",
+    "polars>=1.7.1",
+    "scikit-learn>=1.5.2",
+    "scipy>=1.14.1",
 ]
 
 [tool.mypy]

@@ -8,8 +8,12 @@
     ```bash
     curl -LsSf https://astral.sh/uv/install.sh | sh
     ```
+2. Restart shell
+    ```bash
+    exec $SHELL -l
+    ```
 
-2. Add as a [repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) when creating a new GitHub repository.
+3. Add as a [repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) when creating a new GitHub repository.
 
 ### Usage
 1. Install package dependencies.
