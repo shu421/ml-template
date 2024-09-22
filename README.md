@@ -21,3 +21,9 @@
     ```bash
     uv sync
     ```
+
+
+## References
+- [research-template](https://github.com/tubo213/research-template)
+- [uvだけでPythonプロジェクトを管理する
+](https://zenn.dev/turing_motors/articles/594fbef42a36ee)
